@@ -8,3 +8,8 @@ a place for huggingface notes
 * [docs](https://huggingface.co/docs/huggingface_hub/en/installation)
 
 
+# Run movee.sh to create dirs in target path and move files from source
+
+```bash
+bash movee.sh <source_dir> <destination_dir>
+```
