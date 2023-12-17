@@ -4,7 +4,14 @@ Use this [guide](https://docs.github.com/en/repositories/working-with-files/mana
 
 ```
 $ brew install git-lfs
-$ cd <rootdir>/BALSA
+$ cd <rootdir>/myhugtesty
 $ git lfs install
+```
+
+I did both of these. Not sure if both are required
+
+```
+$ git lfs install
+$ sudo git lfs install --system
 ```
 
