@@ -15,3 +15,10 @@ $ git lfs install
 $ sudo git lfs install --system
 ```
 
+# quickstart on github codespaces
+
+The git-lfs module is already installed.  Simply do:
+
+```
+$ git lfs install
+```

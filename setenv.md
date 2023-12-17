@@ -21,7 +21,8 @@ not work
 $ huggingface-cli login
 ```
 
-Paste the read and the write key and say no to 'apply as git credentials'
+Paste the write key and say no to 'apply as git credentials'.  We use the write key, because
+we want to upload images to the dataset.
 
 
 ```
